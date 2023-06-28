@@ -32,6 +32,8 @@ Famoye Nicholas contributed to the following parts of the project:
 
 - [x] 1. 40% of the HTML code which includes the home section
 - [x] 2. Define the id and the classes for the section
+- [x] 3. Suggested the libraries needed such as Boxicons and Google Fonts
+- [x] 4. Read the documentations of the libraries and implemented them
 
 #### Memuletiwon Oluwafemi
 
